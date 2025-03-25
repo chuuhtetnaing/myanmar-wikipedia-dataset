@@ -1,4 +1,4 @@
-# Myanmar Wikipedia Dataset
+# Myanmar Wikipedia Dataset (Last Crawl Date: 25/03/2025)
 
 A collection of scraped Myanmar Wikipedia pages organized by category paths.
 

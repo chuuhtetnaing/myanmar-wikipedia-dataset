@@ -24,8 +24,8 @@ This dataset contains Myanmar Wikipedia articles scraped based on categorical or
 | `category_path_count` | Number of category paths for the article |
 | `unique_words` | List of individual segmented words from title and content |
 | `unique_phrases` | List of segmented phrases from title and content |
-| `unique_mm_words` | List of Myanmar language segmented words |
-| `unique_mm_phrases` | List of Myanmar language segmented phrases |
+| `unique_mm_words` | List of individual segmented words from title and content (only myanmar chars with some special characters) |
+| `unique_mm_phrases` | List of segmented phrases from title and content (only myanmar chars with some special characters) |
 
 ## Data Organization Methodology
 
